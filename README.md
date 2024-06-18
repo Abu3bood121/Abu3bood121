@@ -34,11 +34,11 @@ chmod +x install-sb.sh
 * Kali linux
 
 # Authors :
-* facebook  : Imad
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
+* facebook  : 
+* gmail     : 
+* instagram : 5alid.store
 * Twitter   : thelinuxchoice
-* SocialBox : Belahsan Ouerghi
+* SocialBox : 5alid.store
 
 <!---
 Abu3bood121/Abu3bood121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
